@@ -36,8 +36,8 @@ navbar-links:
   Cauchy Fellowship: "https://cermics.github.io/cermics/cauchy-fellowship"
   News: "https://cermics.github.io/cermics/news"
   Seminars:
-    - Colloquium: ""
-    - Applied Mathematics: "https://cermics.github.io/cermics/applied-mathematics"
+    - Colloquium: "https://cermics.github.io/cermics/colloquium"
+    - Applied Mathematics: ""
     - Young Researchers: "https://cermics.github.io/cermics/young-researchers"
     - Stochastic Methods and Finance: "https://cermics.github.io/cermics/smf"
     - Data Transitions: "https://cermics.github.io/cermics/data-transitions"
