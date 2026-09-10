@@ -11,11 +11,6 @@ See the <a href="https://calendar.google.com/calendar/embed?src=5e375da2e8afa22
 
 ### Upcoming seminars
 
-|When| Who | Where|
-|Tuesday, May 19 2026| Alice Marveggio| B211|
-
--------------------------
-
 {% for link in site.data.applied-mathematics %}
 {% if link.next == "yes" %}
 {% if link.sem == "scommun" %}

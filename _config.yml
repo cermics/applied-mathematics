@@ -35,7 +35,7 @@ navbar-links:
     - Evaluation reports: "https://cermics.github.io/cermics/evaluation-reports"
   Cauchy Fellowship: "https://cermics.github.io/cermics/cauchy-fellowship"
   News: "https://cermics.github.io/cermics/news"
-    Seminars:
+  Seminars:
     - Colloquium: "https://cermics.github.io/colloquium"
     - Applied Mathematics: ""
     - Young Researchers: "https://cermics.github.io/young-researchers"
