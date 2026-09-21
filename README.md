@@ -1,1 +1,1 @@
-# Colloquium Cermics site test with  Beautiful Jekyll
+# Applied mathematics seminar Cermics site test with  Beautiful Jekyll
