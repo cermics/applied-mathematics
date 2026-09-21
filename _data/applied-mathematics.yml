@@ -72,46 +72,6 @@
   samplers to kernel distances, but also underpins the very foundations of
   probability. The talk will focus on drawing connection between fields and
   discuss the historical motivations, from a modern viewpoint."
-- date: Thursday 24 September
-  next: "yes"
-  author: Xinping Zhu
-  univ: Navier, École nationale des ponts et chaussée
-  hour: "10:30"
-  where: Room B211
-  title: "Multiscale simulation of cementitious materials"
-  abstract: "Concrete is the most widely used manufactured material in the world
-  and forms the foundation of modern infrastructure. However, the production of
-  Portland cement, the key binding component of concrete, is responsible for
-  approximately 8% of global anthropogenic CO2 emissions. Improving the
-  performance and durability of concrete is therefore an important strategy for
-  reducing its environmental footprint by extending service life and minimizing
-  repair and replacement needs. Achieving this goal requires a fundamental
-  understanding of how hydration products form, how microstructures evolve, and
-  how these microscopic features control macroscopic mechanical
-  properties. Concrete is also a highly porous and heterogeneous material that
-  can deteriorate under harsh environmental conditions, such as freeze-thaw
-  cycles and chemical attack. Understanding the mechanisms responsible for such
-  degradation is essential for developing more durable and resilient
-  cementitious materials. At the same time, cement-based materials can act as
-  carbon sinks through the carbonation of hydration products, particularly
-  portlandite and calcium silicate hydrate (C-S-H). The efficiency of CO2
-  sequestration depends on a complex interplay of dissolution, transport,
-  nucleation, and precipitation processes occurring across multiple length
-  scales.
-  All these phenomena are rooted in molecular interactions among water,
-  ions, hydrates, and mineral surfaces. Molecular simulation provides a powerful
-  tool for probing these mechanisms and bridging microscopic processes with
-  macroscopic behavior. In this seminar, I will present a multiscale perspective
-  on cementitious materials, spanning molecular to mesoscale phenomena and
-  covering both physical and chemical processes. I will begin with a brief
-  introduction to molecular simulation methods. Then I will discuss several
-  computational approaches, including classical molecular dynamics with
-  non-reactive and reactive force fields, enhanced sampling techniques such as
-  metadynamics, and coarse-grained modeling. Selected applications in C-S-H
-  gelation, ice crystallization in confined space, and carbon mineralization
-  will be presented to demonstrate how molecular simulations can provide
-  fundamental insights and support the development of more sustainable and
-  durable cement-based materials."
 - date: "Tuesday 19 May"
   author: <a href="https://alicemarveggio.github.io/">Alice Marveggio</a>
   univ: Institute for Applied Math, Bonn
