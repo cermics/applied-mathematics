@@ -1,5 +1,21 @@
-- date: "Thursday 24 September"
+- date: "Tuesday 13 October"
   next: "yes"
+  author: "Philippe Moireau"
+  univ: "CMAP, École Polytechnique"
+  hour: "10.30"
+  where: Room B211
+  title: "Observer Theory in Data Assimilation: From Waves to Cardiac Mechanics"
+  abstract: "In this presentation, I will give an overview of a collaborative
+  research project on observer theory as a strategy for estimating evolution
+  problems. For wave-equation-type problems, we show how this approach allows us
+  to use measured data of various kinds to reconstruct the observed trajectory
+  and estimate the initial conditions or parameters. We analyze this by
+  combining observability conditions with regularization techniques. We will
+  also discuss discretization, numerical analysis, and data sampling. Finally,
+  we will illustrate the application of this approach in several practical
+  cases, from the wave equation to elastodynamics, including applications in
+  cardiac modeling and estimation – which originally inspired our approach."
+- date: "Thursday 24 September"
   author: "Xinping Zhu"
   univ: "Navier, École nationale des ponts et chaussées"
   hour: "10.30"
@@ -40,23 +56,6 @@
   will be presented to demonstrate how molecular simulations can provide
   fundamental insights and support the development of more sustainable and
   durable cement-based materials."
-- date: "Tuesday 13 October"
-  next: "yes"
-  author: "Philippe Moireau"
-  univ: "CMAP, École Polytechnique"
-  hour: "10.30"
-  where: Room B211
-  title: "Observer Theory in Data Assimilation: From Waves to Cardiac Mechanics"
-  abstract: "In this presentation, I will give an overview of a collaborative
-  research project on observer theory as a strategy for estimating evolution
-  problems. For wave-equation-type problems, we show how this approach allows us
-  to use measured data of various kinds to reconstruct the observed trajectory
-  and estimate the initial conditions or parameters. We analyze this by
-  combining observability conditions with regularization techniques. We will
-  also discuss discretization, numerical analysis, and data sampling. Finally,
-  we will illustrate the application of this approach in several practical
-  cases, from the wave equation to elastodynamics, including applications in
-  cardiac modeling and estimation – which originally inspired our approach."
 - date: "Thursday 17 September"
   author: "Alessandro Barp"
   univ: "University College London"
