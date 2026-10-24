@@ -9,64 +9,25 @@ Organizers: <a href="https://thebiglouloup.github.io/loucaspillaudvivien/">Louca
 
 See the <a href="https://calendar.google.com/calendar/embed?src=5e375da2e8afa22df729e4f6a1467993b104b67e8f44a4e6839d8dc1eba59524%40group.calendar.google.com&amp;ctz=Europe%2FParis">Google Agenda of the seminar</a>, and add the <a href="https://calendar.google.com/calendar/ical/5e375da2e8afa22df729e4f6a1467993b104b67e8f44a4e6839d8dc1eba59524%40group.calendar.google.com/public/basic.ics">iCal url</a> to your calendar.
 
+{% comment %}Seminars grouped by day and sorted chronologically, whatever their order in the data file.{% endcomment %}
+{% assign this_year = site.time | date: "%Y" | plus: 0 %}
+{% assign days = site.data.applied-mathematics | group_by_exp: "link", "link.date | date: '%Y-%m-%d'" | sort: "name" %}
+
 ### Upcoming seminars
 
-{% for link in site.data.applied-mathematics %}
+{% for day in days %}{% for link in day.items %}
 {% if link.next == "yes" %}
-{% if link.sem == "scommun" %}
-{{ link.date | date : "%B %-d %Y" }}{% if link.hour != "void" %}, {{ link.hour }}, {% endif %}: {{ link.where }} **{{ link.author }}**,  
-{% if link.univ %}{{ link.univ }}  {% endif %}
-{% if link.title %}*{{ link.title }}*.{% endif %}
-{% for sublink in link.PROG %}
- - {{ sublink.hour }}: **{{ sublink.author }}**,  
- {% if sublink.univ %}{{ sublink.univ }}  {% endif %}
- *{{ sublink.title }}*. {% if sublink.slides %}<a href="{{ sublink.slides | relative_url }}">(slides), </a>{% endif %}
-{% if sublink.abstract %}{{ sublink.abstract }}{% endif %}
-{% endfor %}
-{% else %}
-{{ link.date | date : "%A, %B %-d %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}, {{ link.where }}: **{{ link.author }}**,  
-{{ link.univ }},  
-*{{ link.title }}*. {% if link.slides %}<a href="{{ link.slides | relative_url }}">(slides), </a>{% endif %}
-<details markdown="1">
-<summary>Abstract</summary>
-{% if link.abstract %}{{ link.abstract }}{% endif %}
-</details>
+{% include seminar.html link=link %}
 {% endif %}
+{% endfor %}{% endfor %}
 
--------------------------
+### Past sessions in {{ this_year }}
+
+{% for day in days reversed %}{% for link in day.items %}
+{% assign link_year = link.date | date: "%Y" | plus: 0 %}
+{% if link.next != "yes" and link_year == this_year %}
+{% include seminar.html link=link %}
 {% endif %}
-{% endfor %}
+{% endfor %}{% endfor %}
 
-### Past sessions
-{% assign year = "3000" %}
-
-
-{% for link in site.data.applied-mathematics %}
-{% if link.next != "yes" %}
-{% assign link_year = link.date | date : "%Y" %}
-{% if link_year != year %}{% assign year = link_year %}<h3>{{ year }}</h3>{% endif %}
-{% if link.sem == "scommun" %}
-{{ link.date | date : "%B %-d %Y" }}{% if link.hour != "void" %}, {{ link.hour }}, {% endif %}: {{ link.where }} **{{ link.author }}**,  
-{% if link.univ %}{{ link.univ }}  {% endif %}
-{% if link.title %}*{{ link.title }}*.{% endif %}
-{% for sublink in link.PROG %}
- - {{ sublink.hour }}: **{{ sublink.author }}**,  
- {% if sublink.univ %}{{ sublink.univ }}  {% endif %}
- *{{ sublink.title }}*. {% if sublink.slides %}<a href="{{ sublink.slides | relative_url }}">(slides), </a>{% endif %}
-{% if sublink.abstract %}{{ sublink.abstract }}{% endif %}
-{% endfor %}
-{% else %}
-{{ link.date | date : "%A, %B %-d %Y" }}{% if link.hour != "void" %}, {{ link.hour }}{% endif %}, {{ link.where }}: **{{ link.author }}**,  
-{{ link.univ }},  
-*{{ link.title }}*. {% if link.slides %}<a href="{{ link.slides | relative_url }}">(slides), </a>{% endif %}
-<details markdown="1">
-<summary>Abstract</summary>
-{% if link.abstract %}{{ link.abstract }}{% endif %}
-</details>
-{% endif %}
-
--------------------------
-{% endif %}
-{% endfor %}
-
-
+See the [seminars from previous years]({{ '/previous-years/' | relative_url }}).
