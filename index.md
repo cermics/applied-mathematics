@@ -5,7 +5,7 @@ cover-img: /assets/images/coriolis-reunion.jpg
 
 
 Organizers: <a href="https://thebiglouloup.github.io/loucaspillaudvivien/">Loucas Pillaud-Vivien</a>,
-<a href="https://urbain.vaes.uk">Urbain Vaes</a>.
+<a href="https://lauragrazioli.github.io/">Laura Grazioli</a>.
 
 See the <a href="https://calendar.google.com/calendar/embed?src=5e375da2e8afa22df729e4f6a1467993b104b67e8f44a4e6839d8dc1eba59524%40group.calendar.google.com&amp;ctz=Europe%2FParis">Google Agenda of the seminar</a>, and add the <a href="https://calendar.google.com/calendar/ical/5e375da2e8afa22df729e4f6a1467993b104b67e8f44a4e6839d8dc1eba59524%40group.calendar.google.com/public/basic.ics">iCal url</a> to your calendar.
 
