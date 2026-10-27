@@ -1,7 +1,8 @@
-- date: "Tuesday 13 October 2026"
+- date: "Tuesday 15 December 2026"
+  next: "yes"
   author: "Philippe Moireau"
   univ: "CMAP, École Polytechnique"
-  hour: "10.30"
+  hour: "10:30"
   where: Room B211
   title: "Observer Theory in Data Assimilation: From Waves to Cardiac Mechanics"
   abstract: "In this presentation, I will give an overview of a collaborative
