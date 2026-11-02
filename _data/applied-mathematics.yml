@@ -1,3 +1,195 @@
+- date: "Wednesday 3 February 2027"
+  next: "yes"
+  author: "Andrea Braides"
+  univ: "Università di Roma Tor Vergata, visiting professor of the Fondation Mathématique Jacques Hadamard"
+  hour: "14:00–15:45"
+  where: CERMICS seminar room
+  title: "Mini-course: Nonlocal Variational Problems (lecture 4/4)"
+  abstract: "We consider variational problems whose natural setting is some
+  fractional Sobolev spaces. The two main types of energies that one encounters are
+
+
+  1) usual integral functionals depending on fractional gradients (given as the
+  gradient of a convolution; e.g., Riesz potentials);
+
+
+  2) double integrals, possibly determined by a singular kernel, as for Gagliardo
+  seminorms.
+
+
+  For such energies, interesting new problems arise regarding semicontinuity
+  conditions, limits as the kernel degenerate, and interaction with oscillations
+  and concentration (such as in homogenization, dimension reduction, and
+  Ginzburg-Landau vortices, etc.). In the course I will recall classical results
+  for local integral functionals, and discuss how these results must be modified
+  for nonlocal energies.
+
+
+  References:
+
+
+  - R. Alicandro, A. Braides, M. Solci, and G. Stefani. Topological singularities
+  arising from fractional-gradient energies. Math. Ann. 393 (2025), 71–111.
+
+  - A. Braides. A simplified counterexample to the integral representation of the
+  relaxation of double integrals. Comptes Rendus Math. 362 (2024), 487–491.
+
+  - A. Braides, S. Mannella, and A. J. A. Schiavoni Piazza. Homogenization and
+  averaging in the Bourgain–Brezis–Mironescu limit. arXiv:2609.21933.
+
+  - A. Braides, M. Picerni, and A. J. A. Schiavoni Piazza. A homogenized
+  Maz'ya–Shaposhnikova formula. arXiv:2610.10935.
+
+  - A. Braides, A. Pinamonti, and M. Solci. Dimension reduction of fractional
+  Sobolev seminorms on thin domains. arXiv:2603.13968.
+
+  - C. Kreisbeck and H. Schönberger. Quasiconvexity in the fractional calculus of
+  variations: characterization of lower semicontinuity and relaxation. Nonlinear
+  Anal. 215 (2022), Paper No. 112625."
+- date: "Wednesday 27 January 2027"
+  next: "yes"
+  author: "Andrea Braides"
+  univ: "Università di Roma Tor Vergata, visiting professor of the Fondation Mathématique Jacques Hadamard"
+  hour: "14:00–15:45"
+  where: CERMICS seminar room
+  title: "Mini-course: Nonlocal Variational Problems (lecture 3/4)"
+  abstract: "We consider variational problems whose natural setting is some
+  fractional Sobolev spaces. The two main types of energies that one encounters are
+
+
+  1) usual integral functionals depending on fractional gradients (given as the
+  gradient of a convolution; e.g., Riesz potentials);
+
+
+  2) double integrals, possibly determined by a singular kernel, as for Gagliardo
+  seminorms.
+
+
+  For such energies, interesting new problems arise regarding semicontinuity
+  conditions, limits as the kernel degenerate, and interaction with oscillations
+  and concentration (such as in homogenization, dimension reduction, and
+  Ginzburg-Landau vortices, etc.). In the course I will recall classical results
+  for local integral functionals, and discuss how these results must be modified
+  for nonlocal energies.
+
+
+  References:
+
+
+  - R. Alicandro, A. Braides, M. Solci, and G. Stefani. Topological singularities
+  arising from fractional-gradient energies. Math. Ann. 393 (2025), 71–111.
+
+  - A. Braides. A simplified counterexample to the integral representation of the
+  relaxation of double integrals. Comptes Rendus Math. 362 (2024), 487–491.
+
+  - A. Braides, S. Mannella, and A. J. A. Schiavoni Piazza. Homogenization and
+  averaging in the Bourgain–Brezis–Mironescu limit. arXiv:2609.21933.
+
+  - A. Braides, M. Picerni, and A. J. A. Schiavoni Piazza. A homogenized
+  Maz'ya–Shaposhnikova formula. arXiv:2610.10935.
+
+  - A. Braides, A. Pinamonti, and M. Solci. Dimension reduction of fractional
+  Sobolev seminorms on thin domains. arXiv:2603.13968.
+
+  - C. Kreisbeck and H. Schönberger. Quasiconvexity in the fractional calculus of
+  variations: characterization of lower semicontinuity and relaxation. Nonlinear
+  Anal. 215 (2022), Paper No. 112625."
+- date: "Wednesday 20 January 2027"
+  next: "yes"
+  author: "Andrea Braides"
+  univ: "Università di Roma Tor Vergata, visiting professor of the Fondation Mathématique Jacques Hadamard"
+  hour: "14:00–15:45"
+  where: CERMICS seminar room
+  title: "Mini-course: Nonlocal Variational Problems (lecture 2/4)"
+  abstract: "We consider variational problems whose natural setting is some
+  fractional Sobolev spaces. The two main types of energies that one encounters are
+
+
+  1) usual integral functionals depending on fractional gradients (given as the
+  gradient of a convolution; e.g., Riesz potentials);
+
+
+  2) double integrals, possibly determined by a singular kernel, as for Gagliardo
+  seminorms.
+
+
+  For such energies, interesting new problems arise regarding semicontinuity
+  conditions, limits as the kernel degenerate, and interaction with oscillations
+  and concentration (such as in homogenization, dimension reduction, and
+  Ginzburg-Landau vortices, etc.). In the course I will recall classical results
+  for local integral functionals, and discuss how these results must be modified
+  for nonlocal energies.
+
+
+  References:
+
+
+  - R. Alicandro, A. Braides, M. Solci, and G. Stefani. Topological singularities
+  arising from fractional-gradient energies. Math. Ann. 393 (2025), 71–111.
+
+  - A. Braides. A simplified counterexample to the integral representation of the
+  relaxation of double integrals. Comptes Rendus Math. 362 (2024), 487–491.
+
+  - A. Braides, S. Mannella, and A. J. A. Schiavoni Piazza. Homogenization and
+  averaging in the Bourgain–Brezis–Mironescu limit. arXiv:2609.21933.
+
+  - A. Braides, M. Picerni, and A. J. A. Schiavoni Piazza. A homogenized
+  Maz'ya–Shaposhnikova formula. arXiv:2610.10935.
+
+  - A. Braides, A. Pinamonti, and M. Solci. Dimension reduction of fractional
+  Sobolev seminorms on thin domains. arXiv:2603.13968.
+
+  - C. Kreisbeck and H. Schönberger. Quasiconvexity in the fractional calculus of
+  variations: characterization of lower semicontinuity and relaxation. Nonlinear
+  Anal. 215 (2022), Paper No. 112625."
+- date: "Wednesday 13 January 2027"
+  next: "yes"
+  author: "Andrea Braides"
+  univ: "Università di Roma Tor Vergata, visiting professor of the Fondation Mathématique Jacques Hadamard"
+  hour: "14:00–15:45"
+  where: CERMICS seminar room
+  title: "Mini-course: Nonlocal Variational Problems (lecture 1/4)"
+  abstract: "We consider variational problems whose natural setting is some
+  fractional Sobolev spaces. The two main types of energies that one encounters are
+
+
+  1) usual integral functionals depending on fractional gradients (given as the
+  gradient of a convolution; e.g., Riesz potentials);
+
+
+  2) double integrals, possibly determined by a singular kernel, as for Gagliardo
+  seminorms.
+
+
+  For such energies, interesting new problems arise regarding semicontinuity
+  conditions, limits as the kernel degenerate, and interaction with oscillations
+  and concentration (such as in homogenization, dimension reduction, and
+  Ginzburg-Landau vortices, etc.). In the course I will recall classical results
+  for local integral functionals, and discuss how these results must be modified
+  for nonlocal energies.
+
+
+  References:
+
+
+  - R. Alicandro, A. Braides, M. Solci, and G. Stefani. Topological singularities
+  arising from fractional-gradient energies. Math. Ann. 393 (2025), 71–111.
+
+  - A. Braides. A simplified counterexample to the integral representation of the
+  relaxation of double integrals. Comptes Rendus Math. 362 (2024), 487–491.
+
+  - A. Braides, S. Mannella, and A. J. A. Schiavoni Piazza. Homogenization and
+  averaging in the Bourgain–Brezis–Mironescu limit. arXiv:2609.21933.
+
+  - A. Braides, M. Picerni, and A. J. A. Schiavoni Piazza. A homogenized
+  Maz'ya–Shaposhnikova formula. arXiv:2610.10935.
+
+  - A. Braides, A. Pinamonti, and M. Solci. Dimension reduction of fractional
+  Sobolev seminorms on thin domains. arXiv:2603.13968.
+
+  - C. Kreisbeck and H. Schönberger. Quasiconvexity in the fractional calculus of
+  variations: characterization of lower semicontinuity and relaxation. Nonlinear
+  Anal. 215 (2022), Paper No. 112625."
 - date: "Tuesday 15 December 2026"
   next: "yes"
   author: "Philippe Moireau"
