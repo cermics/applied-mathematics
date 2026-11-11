@@ -207,6 +207,47 @@
   we will illustrate the application of this approach in several practical
   cases, from the wave equation to elastodynamics, including applications in
   cardiac modeling and estimation – which originally inspired our approach."
+- date: "Thursday 26 November 2026"
+  next: "yes"
+  author: <a href="https://lauragrazioli.github.io/">Laura Grazioli</a>
+  univ: "CNRS & CERMICS, École nationale des ponts et chaussées"
+  hour: "10:30"
+  where: Room B211
+  title: "Differential geometry for the calculation of electronic excited states"
+  abstract: "One of the most important questions in quantum chemistry is about how
+  to calculate excitation energies of molecules, that is, the energies necessary
+  to promote the system from its ground state to an energetically higher-lying
+  state, as these are necessary to interpret and simulate molecular spectra.
+  In the many-body Schrödinger theory, electronic excitation energies admit two
+  mathematically equivalent characterisations. On the one hand, excited states
+  arise as higher-energy solutions of the many-body Schrödinger equation and
+  therefore as critical points of the corresponding energy functional; under
+  suitable regularity assumptions, they are saddle points whose number of
+  negative eigenvalues of the Hessian (Morse index) equals the excitation levels.
+  On the other hand, excitation energies appear as the normal modes of the
+  linearised Hamiltonian dynamics around the ground state through linear
+  response theory.
+
+
+  In approximate theories, the two routes to excitation energies do not
+  coincide, making their comparison interesting both from the mathematical and
+  chemical point of view. In this work, we make a step forward by providing a
+  unified geometrical framework, through the investigation of the inherent
+  manifold structures. For the critical point approach, we develop saddle-point
+  search algorithms on the manifold of admissible wave functions. These
+  algorithms target critical points of prescribed Morse index while respecting
+  the intrinsic geometry of the underlying variational manifold, an essential
+  ingredient for the stable computation of inherently unstable saddle points. In
+  parallel, we provide a systematic geometrical derivation of linear response
+  theory for variational wave-function models by exploiting the Kähler structure
+  of the corresponding manifolds. Our derivations reduce to well-known linear
+  response equations in quantum chemistry, which may necessitate ad hoc
+  technicalities for different levels of theory.
+
+
+  We apply the general framework to some of the variational quantum chemistry
+  methods to be able to compare the results for excitation energies and gaining
+  an insight on the differences between the investigated approaches."
 - date: "Thursday 24 September 2026"
   author: "Xinping Zhu"
   univ: "Navier, École nationale des ponts et chaussées"
