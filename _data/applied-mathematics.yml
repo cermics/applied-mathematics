@@ -210,7 +210,7 @@
 - date: "Thursday 10 December 2026"
   next: "yes"
   author: "Agustín Somacal"
-  univ: "Laboratoire de Mathématiques Jean Leray, Nantes Université"
+  univ: "CERMICS, École nationale des ponts et chaussées"
   hour: "10:30"
   where: Room B211
   title: "Non-linear reduced order modelling, natural gradients and optimal sampling"
