@@ -207,6 +207,34 @@
   we will illustrate the application of this approach in several practical
   cases, from the wave equation to elastodynamics, including applications in
   cardiac modeling and estimation – which originally inspired our approach."
+- date: "Thursday 10 December 2026"
+  next: "yes"
+  author: "Agustín Somacal"
+  univ: "Laboratoire de Mathématiques Jean Leray, Nantes Université"
+  hour: "10:30"
+  where: Room B211
+  title: "Non-linear reduced order modelling, natural gradients and optimal sampling"
+  abstract: "Reduced-order models (ROMs) aim at reducing the computational cost of
+  forward or inverse problems in the context of parameterized partial differential
+  equations (pPDE). To achieve this, linear or non-linear spaces are constructed in
+  an offline stage using available data (possibly obtained through costly
+  simulations) of the modelled system. In the case of linear ROMs, the online
+  stage of reconstructing a system state from m measurements is typically solved
+  through linear least-squares. However, for non-linear models we generally
+  require the use of gradient-based iterative methods. By linearizing the model
+  at each iteration, one essentially solves linear least-squares problems within
+  the tangent space of the non-linear manifold, a technique known as natural
+  gradient descent (NGD). Ultimately, however, we wish to approximate the state
+  with as few measurements as possible which leads us to incorporate optimal
+  sampling strategies within the NGD formulation.
+
+
+  In the second part of the talk we will consider NGD versions of classical
+  inertial dynamic methods like Nesterov or heavy-ball and show how these
+  strategies can accelerate the convergence in regression, classification and
+  physics-informed neural network (PINN) problems. If time allows it, I'll also
+  show some ongoing developments on adaptive sampling strategies for improving
+  learning of solutions of PDEs by PINN using NGD."
 - date: "Thursday 26 November 2026"
   next: "yes"
   author: <a href="https://lauragrazioli.github.io/">Laura Grazioli</a>
