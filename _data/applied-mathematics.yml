@@ -1,3 +1,10 @@
+- date: "Thursday 4 March 2027"
+  next: "yes"
+  author: <a href="https://ligm.univ-eiffel.fr/~croyer/">Clément Royer</a>
+  univ: "LIGM, Université Gustave Eiffel"
+  hour: "10:30"
+  where: Room B211
+  title: "TBA"
 - date: "Wednesday 3 February 2027"
   next: "yes"
   author: "Andrea Braides"
@@ -190,6 +197,13 @@
   - C. Kreisbeck and H. Schönberger. Quasiconvexity in the fractional calculus of
   variations: characterization of lower semicontinuity and relaxation. Nonlinear
   Anal. 215 (2022), Paper No. 112625."
+- date: "Thursday 7 January 2027"
+  next: "yes"
+  author: <a href="https://adityavarre.github.io/">Aditya Varre</a>
+  univ: "Inria Paris (Sierra team)"
+  hour: "10:30"
+  where: Room B211
+  title: "TBA"
 - date: "Tuesday 15 December 2026"
   next: "yes"
   author: "Philippe Moireau"
